@@ -1,4 +1,4 @@
-Hi, I'm Doan Truc Nhu 👋
+Hi, I'm Doan Truc Như 👋
 
 🎓 4th-year Information Technology Student at An Giang University
 
