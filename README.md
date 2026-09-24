@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Doan Truc Nhu 👋
 
-<!--
-**DoanTrucNhu05/DoanTrucNhu05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th-year Information Technology Student at An Giang University
 
-Here are some ideas to get you started:
+I'm interested in Web Development and enjoy building websites, working with databases, and learning new technologies through practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills
+
+Frontend: HTML, CSS, JavaScript, Bootstrap, jQuery
+Backend: PHP, C#
+Database: MySQL, SQL Server
+Tools: Git, GitHub, VS Code
+
+🌱 Currently Learning
+PHP & MySQL
+JavaScript
+Web Security
+Git & GitHub
